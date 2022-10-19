@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://ahsan-fc.github.io/vision-adhoc-hosting/Vision.ipa</string>
+		<string>https://blitz-webapi.000webhostapp.com/Vision.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://ahsan-fc.github.io/vision-adhoc-hosting/57.png</string>
+		<string>https://blitz-webapi.000webhostapp.com/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://ahsan-fc.github.io/vision-adhoc-hosting/512.png</string>
+		<string>https://blitz-webapi.000webhostapp.com/512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
