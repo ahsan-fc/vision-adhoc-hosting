@@ -168,7 +168,7 @@
 						<string>arm64</string>
 					</array>
 					<key>buildNumber</key>
-					<string>216</string>
+					<string>222</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -188,7 +188,7 @@
 						<string>Complete Innovations Inc.</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>4.2.0</string>
+					<string>4.2.3</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
